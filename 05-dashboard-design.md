@@ -12,7 +12,7 @@ The submitted assignment built three role-specific Power BI reports. The portfol
 
 ## Source screenshots
 
-![Original faculty dashboard](../assets/faculty-original.png)
+![Original faculty dashboard](dashboards/admissions-original.png)
 *Original faculty dashboard from the submitted report; needs metric and label verification.*
 
 ![Original facilities dashboard](../assets/facilities-original.png)
