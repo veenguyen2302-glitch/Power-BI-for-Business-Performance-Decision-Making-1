@@ -15,10 +15,10 @@ The submitted assignment built three role-specific Power BI reports. The portfol
 ![Original faculty dashboard](dashboards/admissions-original.png)
 *Original faculty dashboard from the submitted report; needs metric and label verification.*
 
-![Original facilities dashboard](../assets/facilities-original.png)
+![Original facilities dashboard](dashboards/facilities-original.png)
 *Original facilities dashboard; its Cost vs Delay label and satisfaction/priority aggregation require review.*
 
-![Original admissions dashboard](../assets/admissions-original.png)
+![Original admissions dashboard](dashboards/faculty-original.png)
 *Original administration dashboard; ethnicity/nationality patterns should not be used as an individual risk policy.*
 
 ## Corrective design recommendations
