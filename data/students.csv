@@ -1,0 +1,651 @@
+student_id,course_name,admission_channel,admission_score,scholarship_type,english_level,enrolled_term
+AU-ST0001,Statistics,Online Portal,84.8,None,Advanced,2026-T1
+AU-ST0002,Engineering,Referral,66.7,Partial,Advanced,2026-T1
+AU-ST0003,Programming,Referral,89.7,None,Advanced,2026-T1
+AU-ST0004,Programming,Online Portal,97.6,Partial,Advanced,2026-T1
+AU-ST0005,Business Law,University Fair,75.8,None,Intermediate,2026-T1
+AU-ST0006,Finance,Online Portal,73.2,Partial,Intermediate,2026-T1
+AU-ST0007,Engineering,Referral,68.5,Partial,Intermediate,2026-T1
+AU-ST0008,Finance,Online Portal,63.4,Partial,Advanced,2026-T1
+AU-ST0009,Mathematics,Referral,79.5,None,Intermediate,2026-T1
+AU-ST0010,Finance,Referral,88.3,None,Intermediate,2026-T1
+AU-ST0011,Programming,Referral,82.1,Partial,Advanced,2026-T1
+AU-ST0012,Marketing,Online Portal,66.3,Partial,Advanced,2026-T1
+AU-ST0013,Accounting,Referral,88.2,Partial,Intermediate,2026-T1
+AU-ST0014,Statistics,Online Portal,73.7,None,Intermediate,2026-T1
+AU-ST0015,Statistics,Online Portal,75.6,None,Intermediate,2026-T1
+AU-ST0016,Business Law,Agent,77.3,None,Intermediate,2026-T1
+AU-ST0017,Mathematics,Agent,79.7,None,Intermediate,2026-T1
+AU-ST0018,Accounting,Agent,94.8,None,Basic,2026-T1
+AU-ST0019,Finance,Agent,73.8,Partial,Intermediate,2026-T1
+AU-ST0020,Business Law,Online Portal,79.2,None,Intermediate,2026-T1
+AU-ST0021,Accounting,Agent,74.4,None,Advanced,2026-T1
+AU-ST0022,Business Law,Referral,69.9,None,Intermediate,2026-T1
+AU-ST0023,Engineering,Agent,87.8,Partial,Intermediate,2026-T1
+AU-ST0024,Accounting,Agent,84.6,Partial,Intermediate,2026-T1
+AU-ST0025,Programming,Agent,75.4,Partial,Intermediate,2026-T1
+AU-ST0026,Engineering,Referral,93.5,None,Intermediate,2026-T1
+AU-ST0027,Engineering,Online Portal,81.8,Partial,Intermediate,2026-T1
+AU-ST0028,Accounting,University Fair,80.6,None,Advanced,2026-T1
+AU-ST0029,Marketing,Agent,78.6,None,Intermediate,2026-T1
+AU-ST0030,Business Law,Online Portal,87.6,None,Intermediate,2026-T1
+AU-ST0031,Marketing,Online Portal,82.0,None,Intermediate,2026-T1
+AU-ST0032,Finance,University Fair,76.9,Partial,Advanced,2026-T1
+AU-ST0033,Programming,University Fair,77.7,None,Intermediate,2026-T1
+AU-ST0034,Engineering,Agent,70.0,Partial,Intermediate,2026-T1
+AU-ST0035,Finance,University Fair,83.4,None,Advanced,2026-T1
+AU-ST0036,Marketing,University Fair,90.3,Partial,Intermediate,2026-T1
+AU-ST0037,Mathematics,Online Portal,83.5,None,Intermediate,2026-T1
+AU-ST0038,Accounting,Online Portal,98,None,Basic,2026-T1
+AU-ST0039,Finance,Referral,84.5,None,Basic,2026-T1
+AU-ST0040,Marketing,Referral,68.9,None,Basic,2026-T1
+AU-ST0041,Economics,Agent,88.2,None,Advanced,2026-T1
+AU-ST0042,Business Law,University Fair,63.5,None,Intermediate,2026-T1
+AU-ST0043,Finance,Agent,87.1,Full,Intermediate,2026-T1
+AU-ST0044,Programming,University Fair,79.9,None,Advanced,2026-T1
+AU-ST0045,Finance,Agent,84.2,None,Intermediate,2026-T1
+AU-ST0046,Accounting,Online Portal,92.7,Partial,Intermediate,2026-T1
+AU-ST0047,Mathematics,Online Portal,76.4,Partial,Advanced,2026-T1
+AU-ST0048,Mathematics,Agent,66.8,Full,Intermediate,2026-T1
+AU-ST0049,Accounting,Agent,68.3,None,Intermediate,2026-T1
+AU-ST0050,Engineering,Online Portal,75.9,None,Advanced,2026-T1
+AU-ST0051,Accounting,Online Portal,79.2,Partial,Intermediate,2026-T1
+AU-ST0052,Programming,Online Portal,81.4,None,Intermediate,2026-T1
+AU-ST0053,Engineering,University Fair,65.1,None,Basic,2026-T1
+AU-ST0054,Engineering,Referral,83.3,None,Basic,2026-T1
+AU-ST0055,Economics,Online Portal,83.5,None,Intermediate,2026-T1
+AU-ST0056,Finance,University Fair,69.2,Partial,Intermediate,2026-T1
+AU-ST0057,Statistics,Agent,89.0,Partial,Intermediate,2026-T1
+AU-ST0058,Statistics,Referral,73.9,Partial,Intermediate,2026-T1
+AU-ST0059,Marketing,University Fair,74.4,None,Advanced,2026-T1
+AU-ST0060,Marketing,Online Portal,84.7,None,Advanced,2026-T1
+AU-ST0061,Economics,University Fair,75.5,Partial,Intermediate,2026-T1
+AU-ST0062,Finance,Agent,91.6,Full,Intermediate,2026-T1
+AU-ST0063,Accounting,University Fair,89.8,None,Intermediate,2026-T1
+AU-ST0064,Business Law,University Fair,63.6,None,Advanced,2026-T1
+AU-ST0065,Engineering,Agent,89.8,None,Basic,2026-T1
+AU-ST0066,Accounting,Online Portal,69.2,None,Advanced,2026-T1
+AU-ST0067,Mathematics,Referral,65.0,None,Intermediate,2026-T1
+AU-ST0068,Engineering,Agent,82.6,None,Intermediate,2026-T1
+AU-ST0069,Business Law,University Fair,69.9,None,Advanced,2026-T1
+AU-ST0070,Marketing,University Fair,68.5,Partial,Intermediate,2026-T1
+AU-ST0071,Engineering,University Fair,73.0,Partial,Advanced,2026-T1
+AU-ST0072,Accounting,University Fair,89.0,None,Intermediate,2026-T1
+AU-ST0073,Economics,Referral,81.5,Full,Advanced,2026-T1
+AU-ST0074,Mathematics,Agent,83.6,None,Advanced,2026-T1
+AU-ST0075,Programming,University Fair,79.3,None,Intermediate,2026-T1
+AU-ST0076,Accounting,Agent,68.6,None,Intermediate,2026-T1
+AU-ST0077,Accounting,University Fair,75.2,None,Basic,2026-T1
+AU-ST0078,Accounting,Agent,75.3,None,Intermediate,2026-T1
+AU-ST0079,Engineering,Online Portal,96.3,None,Intermediate,2026-T1
+AU-ST0080,Economics,Online Portal,81.1,None,Intermediate,2026-T1
+AU-ST0081,Economics,Agent,71.7,None,Basic,2026-T1
+AU-ST0082,Programming,Agent,79.7,None,Advanced,2026-T1
+AU-ST0083,Engineering,University Fair,68.7,Partial,Intermediate,2026-T1
+AU-ST0084,Programming,Online Portal,58.6,None,Intermediate,2026-T1
+AU-ST0085,Business Law,Referral,80.0,None,Intermediate,2026-T1
+AU-ST0086,Business Law,Referral,87.1,None,Intermediate,2026-T1
+AU-ST0087,Mathematics,Agent,75.8,Full,Basic,2026-T1
+AU-ST0088,Marketing,University Fair,67.9,None,Intermediate,2026-T1
+AU-ST0089,Marketing,Online Portal,65.9,Partial,Advanced,2026-T1
+AU-ST0090,Engineering,Referral,87.6,None,Basic,2026-T1
+AU-ST0091,Business Law,University Fair,76.1,None,Basic,2026-T1
+AU-ST0092,Accounting,University Fair,88.0,None,Advanced,2026-T1
+AU-ST0093,Finance,University Fair,68.6,None,Intermediate,2026-T1
+AU-ST0094,Engineering,Referral,79.3,None,Intermediate,2026-T1
+AU-ST0095,Statistics,University Fair,79.9,None,Advanced,2026-T1
+AU-ST0096,Mathematics,Agent,78.9,None,Intermediate,2026-T1
+AU-ST0097,Economics,Online Portal,77.7,None,Intermediate,2026-T1
+AU-ST0098,Mathematics,Agent,83.7,None,Advanced,2026-T1
+AU-ST0099,Engineering,Online Portal,76.3,None,Intermediate,2026-T1
+AU-ST0100,Statistics,Online Portal,98,None,Advanced,2026-T1
+AU-ST0101,Marketing,Online Portal,80.8,None,Intermediate,2026-T1
+AU-ST0102,Engineering,Agent,80.1,Partial,Intermediate,2026-T1
+AU-ST0103,Finance,Referral,78.2,None,Basic,2026-T1
+AU-ST0104,Finance,University Fair,73.0,None,Intermediate,2026-T1
+AU-ST0105,Mathematics,Agent,78.9,None,Intermediate,2026-T1
+AU-ST0106,Mathematics,Referral,63.3,None,Intermediate,2026-T1
+AU-ST0107,Mathematics,University Fair,60.0,None,Intermediate,2026-T1
+AU-ST0108,Marketing,Agent,76.2,None,Basic,2026-T1
+AU-ST0109,Programming,Online Portal,82.7,Partial,Basic,2026-T1
+AU-ST0110,Mathematics,Agent,73.1,None,Advanced,2026-T1
+AU-ST0111,Business Law,University Fair,77.7,None,Basic,2026-T1
+AU-ST0112,Statistics,Online Portal,84.5,None,Intermediate,2026-T1
+AU-ST0113,Marketing,University Fair,85.1,None,Advanced,2026-T1
+AU-ST0114,Statistics,Online Portal,59.5,Partial,Basic,2026-T1
+AU-ST0115,Accounting,University Fair,73.5,None,Advanced,2026-T1
+AU-ST0116,Mathematics,University Fair,82.6,None,Intermediate,2026-T1
+AU-ST0117,Business Law,University Fair,75.5,None,Intermediate,2026-T1
+AU-ST0118,Engineering,Referral,71.6,None,Basic,2026-T1
+AU-ST0119,Statistics,Referral,75.8,None,Intermediate,2026-T1
+AU-ST0120,Programming,University Fair,60.5,Full,Intermediate,2026-T1
+AU-ST0121,Statistics,University Fair,88.0,None,Advanced,2026-T1
+AU-ST0122,Engineering,Agent,88.8,None,Intermediate,2026-T1
+AU-ST0123,Economics,Online Portal,80.8,None,Basic,2026-T1
+AU-ST0124,Finance,Online Portal,69.0,None,Advanced,2026-T1
+AU-ST0125,Finance,Referral,95.9,Partial,Intermediate,2026-T1
+AU-ST0126,Economics,Agent,84.6,None,Intermediate,2026-T1
+AU-ST0127,Accounting,Referral,56.3,Partial,Advanced,2026-T1
+AU-ST0128,Programming,Referral,55,None,Basic,2026-T1
+AU-ST0129,Finance,Agent,69.0,None,Intermediate,2026-T1
+AU-ST0130,Economics,Referral,82.0,None,Intermediate,2026-T1
+AU-ST0131,Programming,University Fair,77.1,None,Intermediate,2026-T1
+AU-ST0132,Marketing,Referral,71.2,Partial,Intermediate,2026-T1
+AU-ST0133,Engineering,Agent,69.7,Partial,Advanced,2026-T1
+AU-ST0134,Statistics,Online Portal,74.4,None,Intermediate,2026-T1
+AU-ST0135,Finance,Referral,68.6,None,Intermediate,2026-T1
+AU-ST0136,Programming,Referral,65.9,Partial,Advanced,2026-T1
+AU-ST0137,Business Law,Referral,77.6,None,Intermediate,2026-T1
+AU-ST0138,Economics,Online Portal,62.7,None,Advanced,2026-T1
+AU-ST0139,Statistics,Agent,62.1,Full,Intermediate,2026-T1
+AU-ST0140,Economics,Referral,85.2,Partial,Intermediate,2026-T1
+AU-ST0141,Economics,Agent,75.0,None,Advanced,2026-T1
+AU-ST0142,Business Law,Referral,89.6,Full,Advanced,2026-T1
+AU-ST0143,Mathematics,University Fair,75.2,Partial,Intermediate,2026-T1
+AU-ST0144,Finance,Agent,78.1,None,Intermediate,2026-T1
+AU-ST0145,Business Law,Agent,86.1,None,Intermediate,2026-T1
+AU-ST0146,Statistics,Agent,79.7,None,Intermediate,2026-T1
+AU-ST0147,Programming,Online Portal,76.2,None,Intermediate,2026-T1
+AU-ST0148,Statistics,Agent,85.6,None,Intermediate,2026-T1
+AU-ST0149,Mathematics,Referral,72.8,None,Intermediate,2026-T1
+AU-ST0150,Marketing,Referral,80.3,None,Intermediate,2026-T1
+AU-ST0151,Marketing,Agent,82.5,Partial,Intermediate,2026-T1
+AU-ST0152,Engineering,University Fair,87.9,Partial,Intermediate,2026-T1
+AU-ST0153,Statistics,Online Portal,74.6,None,Advanced,2026-T1
+AU-ST0154,Business Law,Agent,72.9,None,Intermediate,2026-T1
+AU-ST0155,Business Law,Online Portal,60.1,None,Advanced,2026-T1
+AU-ST0156,Programming,Referral,71.5,None,Advanced,2026-T1
+AU-ST0157,Finance,Referral,93.7,None,Intermediate,2026-T1
+AU-ST0158,Finance,University Fair,81.2,Partial,Intermediate,2026-T1
+AU-ST0159,Business Law,Online Portal,64.7,Partial,Intermediate,2026-T1
+AU-ST0160,Marketing,Online Portal,72.5,Partial,Advanced,2026-T1
+AU-ST0161,Economics,Online Portal,72.6,None,Advanced,2026-T1
+AU-ST0162,Statistics,Agent,71.5,Partial,Advanced,2026-T1
+AU-ST0163,Statistics,Referral,73.6,None,Intermediate,2026-T1
+AU-ST0164,Marketing,Referral,72.8,None,Intermediate,2026-T1
+AU-ST0165,Statistics,Online Portal,78.3,Partial,Advanced,2026-T1
+AU-ST0166,Engineering,Referral,70.8,Partial,Advanced,2026-T1
+AU-ST0167,Business Law,Online Portal,73.5,Partial,Intermediate,2026-T1
+AU-ST0168,Programming,Referral,63.5,None,Intermediate,2026-T1
+AU-ST0169,Programming,Agent,75.2,None,Advanced,2026-T1
+AU-ST0170,Accounting,University Fair,83.7,None,Basic,2026-T1
+AU-ST0171,Mathematics,Online Portal,67.1,None,Intermediate,2026-T1
+AU-ST0172,Mathematics,Referral,72.5,Full,Intermediate,2026-T1
+AU-ST0173,Accounting,University Fair,80.0,None,Intermediate,2026-T1
+AU-ST0174,Accounting,Agent,78.5,None,Advanced,2026-T1
+AU-ST0175,Engineering,Referral,86.6,None,Intermediate,2026-T1
+AU-ST0176,Marketing,Online Portal,84.7,Partial,Advanced,2026-T1
+AU-ST0177,Business Law,Online Portal,82.1,None,Intermediate,2026-T1
+AU-ST0178,Economics,Referral,83.0,None,Intermediate,2026-T1
+AU-ST0179,Economics,Online Portal,72.6,Partial,Intermediate,2026-T1
+AU-ST0180,Engineering,Referral,67.0,None,Basic,2026-T1
+AU-ST0181,Mathematics,Agent,62.6,None,Intermediate,2026-T1
+AU-ST0182,Mathematics,Online Portal,80.8,Partial,Advanced,2026-T1
+AU-ST0183,Marketing,Online Portal,80.4,None,Advanced,2026-T1
+AU-ST0184,Business Law,University Fair,71.8,None,Intermediate,2026-T1
+AU-ST0185,Programming,Agent,78.0,None,Intermediate,2026-T1
+AU-ST0186,Finance,Agent,73.2,None,Intermediate,2026-T1
+AU-ST0187,Business Law,Agent,77.0,Partial,Intermediate,2026-T1
+AU-ST0188,Marketing,Agent,78.5,None,Advanced,2026-T1
+AU-ST0189,Business Law,Referral,76.9,None,Intermediate,2026-T1
+AU-ST0190,Mathematics,Online Portal,65.4,None,Basic,2026-T1
+AU-ST0191,Economics,Online Portal,75.7,None,Basic,2026-T1
+AU-ST0192,Statistics,Referral,88.2,None,Intermediate,2026-T1
+AU-ST0193,Mathematics,Online Portal,92.1,Partial,Intermediate,2026-T1
+AU-ST0194,Finance,University Fair,66.2,None,Intermediate,2026-T1
+AU-ST0195,Programming,Referral,80.1,None,Advanced,2026-T1
+AU-ST0196,Economics,Online Portal,61.4,Partial,Advanced,2026-T1
+AU-ST0197,Statistics,Referral,75.1,Partial,Advanced,2026-T1
+AU-ST0198,Economics,Online Portal,91.1,Partial,Advanced,2026-T1
+AU-ST0199,Business Law,University Fair,76.2,None,Intermediate,2026-T1
+AU-ST0200,Economics,Agent,67.6,Partial,Intermediate,2026-T1
+AU-ST0201,Economics,Agent,95.2,None,Intermediate,2026-T1
+AU-ST0202,Marketing,Agent,67.3,None,Intermediate,2026-T1
+AU-ST0203,Statistics,Agent,84.4,None,Advanced,2026-T1
+AU-ST0204,Accounting,Online Portal,66.0,None,Basic,2026-T1
+AU-ST0205,Engineering,Agent,72.2,Partial,Intermediate,2026-T1
+AU-ST0206,Marketing,University Fair,66.8,None,Intermediate,2026-T1
+AU-ST0207,Engineering,Agent,66.6,None,Basic,2026-T1
+AU-ST0208,Marketing,Referral,89.7,None,Advanced,2026-T1
+AU-ST0209,Economics,Referral,74.9,Partial,Advanced,2026-T1
+AU-ST0210,Programming,Referral,74.9,None,Intermediate,2026-T1
+AU-ST0211,Mathematics,Agent,70.0,None,Intermediate,2026-T1
+AU-ST0212,Business Law,Online Portal,74.5,None,Intermediate,2026-T1
+AU-ST0213,Statistics,Online Portal,71.4,None,Intermediate,2026-T1
+AU-ST0214,Finance,Referral,71.2,Partial,Basic,2026-T1
+AU-ST0215,Finance,Online Portal,68.2,None,Intermediate,2026-T1
+AU-ST0216,Finance,Agent,66.0,None,Advanced,2026-T1
+AU-ST0217,Engineering,Agent,67.3,None,Intermediate,2026-T1
+AU-ST0218,Business Law,Online Portal,78.9,Partial,Intermediate,2026-T1
+AU-ST0219,Finance,Online Portal,89.3,Partial,Basic,2026-T1
+AU-ST0220,Business Law,Agent,71.8,None,Intermediate,2026-T1
+AU-ST0221,Engineering,Referral,79.7,None,Basic,2026-T1
+AU-ST0222,Engineering,Referral,72.4,None,Basic,2026-T1
+AU-ST0223,Marketing,University Fair,73.8,Partial,Intermediate,2026-T1
+AU-ST0224,Economics,Agent,85.9,None,Intermediate,2026-T1
+AU-ST0225,Finance,Referral,83.0,None,Basic,2026-T1
+AU-ST0226,Economics,Agent,87.2,None,Basic,2026-T1
+AU-ST0227,Programming,Agent,76.6,None,Basic,2026-T1
+AU-ST0228,Engineering,Agent,71.5,None,Intermediate,2026-T1
+AU-ST0229,Marketing,Referral,78.6,None,Advanced,2026-T1
+AU-ST0230,Business Law,Referral,83.8,None,Advanced,2026-T1
+AU-ST0231,Business Law,Online Portal,93.6,None,Intermediate,2026-T1
+AU-ST0232,Economics,Online Portal,72.6,None,Basic,2026-T1
+AU-ST0233,Mathematics,Online Portal,79.7,None,Advanced,2026-T1
+AU-ST0234,Economics,Referral,62.8,None,Intermediate,2026-T1
+AU-ST0235,Marketing,University Fair,87.9,Full,Advanced,2026-T1
+AU-ST0236,Accounting,Agent,83.8,None,Intermediate,2026-T1
+AU-ST0237,Economics,Agent,80.5,Partial,Basic,2026-T1
+AU-ST0238,Economics,Agent,83.7,None,Intermediate,2026-T1
+AU-ST0239,Programming,Referral,70.5,None,Intermediate,2026-T1
+AU-ST0240,Marketing,University Fair,58.2,None,Intermediate,2026-T1
+AU-ST0241,Programming,Referral,73.5,None,Basic,2026-T1
+AU-ST0242,Mathematics,Agent,89.9,Partial,Advanced,2026-T1
+AU-ST0243,Marketing,Agent,55,Partial,Intermediate,2026-T1
+AU-ST0244,Accounting,University Fair,84.6,Partial,Basic,2026-T1
+AU-ST0245,Economics,Agent,67.5,None,Intermediate,2026-T1
+AU-ST0246,Engineering,Referral,83.3,None,Intermediate,2026-T1
+AU-ST0247,Mathematics,Online Portal,85.8,None,Intermediate,2026-T1
+AU-ST0248,Marketing,Agent,81.5,None,Advanced,2026-T1
+AU-ST0249,Statistics,University Fair,65.6,None,Intermediate,2026-T1
+AU-ST0250,Mathematics,Online Portal,86.6,Partial,Advanced,2026-T1
+AU-ST0251,Marketing,Agent,77.7,None,Advanced,2026-T1
+AU-ST0252,Accounting,Online Portal,93.0,Full,Advanced,2026-T1
+AU-ST0253,Programming,Agent,70.0,None,Intermediate,2026-T1
+AU-ST0254,Mathematics,Referral,66.9,None,Advanced,2026-T1
+AU-ST0255,Engineering,Referral,66.2,None,Intermediate,2026-T1
+AU-ST0256,Programming,University Fair,71.1,None,Basic,2026-T1
+AU-ST0257,Engineering,Referral,57.5,Partial,Intermediate,2026-T1
+AU-ST0258,Marketing,University Fair,68.8,None,Advanced,2026-T1
+AU-ST0259,Business Law,University Fair,70.0,Partial,Intermediate,2026-T1
+AU-ST0260,Statistics,Online Portal,80.4,None,Basic,2026-T1
+AU-ST0261,Marketing,University Fair,87.9,None,Intermediate,2026-T1
+AU-ST0262,Statistics,Agent,98,Partial,Intermediate,2026-T1
+AU-ST0263,Programming,University Fair,80.5,Full,Advanced,2026-T1
+AU-ST0264,Engineering,Agent,75.8,None,Intermediate,2026-T1
+AU-ST0265,Engineering,University Fair,68.5,Partial,Intermediate,2026-T1
+AU-ST0266,Accounting,University Fair,79.2,None,Advanced,2026-T1
+AU-ST0267,Engineering,Agent,92.1,None,Basic,2026-T1
+AU-ST0268,Marketing,Referral,79.1,Partial,Intermediate,2026-T1
+AU-ST0269,Statistics,University Fair,95.4,None,Basic,2026-T1
+AU-ST0270,Marketing,Online Portal,84.9,Partial,Advanced,2026-T1
+AU-ST0271,Mathematics,University Fair,79.2,Partial,Intermediate,2026-T1
+AU-ST0272,Business Law,Agent,74.9,None,Intermediate,2026-T1
+AU-ST0273,Accounting,Referral,71.0,Partial,Basic,2026-T1
+AU-ST0274,Accounting,Online Portal,85.1,None,Advanced,2026-T1
+AU-ST0275,Marketing,University Fair,85.5,None,Advanced,2026-T1
+AU-ST0276,Engineering,Online Portal,90.8,None,Basic,2026-T1
+AU-ST0277,Statistics,Agent,73.0,None,Advanced,2026-T1
+AU-ST0278,Programming,Referral,70.5,Partial,Intermediate,2026-T1
+AU-ST0279,Statistics,University Fair,66.1,None,Intermediate,2026-T1
+AU-ST0280,Accounting,Online Portal,83.8,Partial,Intermediate,2026-T1
+AU-ST0281,Marketing,University Fair,68.7,None,Advanced,2026-T1
+AU-ST0282,Statistics,University Fair,69.8,Partial,Intermediate,2026-T1
+AU-ST0283,Finance,Agent,59.1,None,Intermediate,2026-T1
+AU-ST0284,Finance,Agent,71.2,None,Intermediate,2026-T1
+AU-ST0285,Engineering,Agent,67.9,None,Advanced,2026-T1
+AU-ST0286,Engineering,University Fair,78.2,Partial,Intermediate,2026-T1
+AU-ST0287,Mathematics,Online Portal,91.4,None,Intermediate,2026-T1
+AU-ST0288,Engineering,Agent,72.3,None,Intermediate,2026-T1
+AU-ST0289,Economics,University Fair,66.7,None,Basic,2026-T1
+AU-ST0290,Programming,Online Portal,74.8,None,Advanced,2026-T1
+AU-ST0291,Accounting,University Fair,85.2,None,Intermediate,2026-T1
+AU-ST0292,Mathematics,University Fair,58.5,None,Advanced,2026-T1
+AU-ST0293,Engineering,Referral,60.5,None,Intermediate,2026-T1
+AU-ST0294,Business Law,Referral,86.3,None,Advanced,2026-T1
+AU-ST0295,Engineering,Referral,94.6,None,Intermediate,2026-T1
+AU-ST0296,Finance,Referral,66.2,Partial,Basic,2026-T1
+AU-ST0297,Finance,Referral,75.9,None,Advanced,2026-T1
+AU-ST0298,Economics,University Fair,56.8,None,Intermediate,2026-T1
+AU-ST0299,Finance,Agent,71.3,None,Intermediate,2026-T1
+AU-ST0300,Economics,Referral,77.7,Partial,Intermediate,2026-T1
+AU-ST0301,Business Law,Agent,85.0,None,Basic,2026-T1
+AU-ST0302,Economics,Agent,76.5,None,Intermediate,2026-T1
+AU-ST0303,Economics,Agent,87.5,Partial,Intermediate,2026-T1
+AU-ST0304,Accounting,Referral,73.1,None,Advanced,2026-T1
+AU-ST0305,Accounting,Referral,75.0,None,Intermediate,2026-T1
+AU-ST0306,Finance,Referral,80.6,None,Advanced,2026-T1
+AU-ST0307,Engineering,Referral,67.9,None,Intermediate,2026-T1
+AU-ST0308,Mathematics,Online Portal,68.5,None,Intermediate,2026-T1
+AU-ST0309,Engineering,Referral,93.9,None,Intermediate,2026-T1
+AU-ST0310,Marketing,Online Portal,81.1,Partial,Intermediate,2026-T1
+AU-ST0311,Mathematics,Referral,64.7,Partial,Intermediate,2026-T1
+AU-ST0312,Marketing,Referral,60.1,Full,Intermediate,2026-T1
+AU-ST0313,Mathematics,Agent,74.6,None,Intermediate,2026-T1
+AU-ST0314,Mathematics,Online Portal,69.0,Partial,Intermediate,2026-T1
+AU-ST0315,Engineering,University Fair,73.8,None,Intermediate,2026-T1
+AU-ST0316,Marketing,Agent,59.1,None,Intermediate,2026-T1
+AU-ST0317,Marketing,Referral,64.8,None,Advanced,2026-T1
+AU-ST0318,Programming,University Fair,74.8,None,Intermediate,2026-T1
+AU-ST0319,Economics,University Fair,64.1,None,Advanced,2026-T1
+AU-ST0320,Engineering,Online Portal,74.6,None,Intermediate,2026-T1
+AU-ST0321,Finance,Online Portal,81.7,None,Intermediate,2026-T1
+AU-ST0322,Marketing,Agent,87.6,None,Advanced,2026-T1
+AU-ST0323,Engineering,Referral,77.7,None,Advanced,2026-T1
+AU-ST0324,Business Law,Online Portal,73.1,None,Basic,2026-T1
+AU-ST0325,Finance,Online Portal,81.8,None,Intermediate,2026-T1
+AU-ST0326,Engineering,Agent,93.5,None,Basic,2026-T1
+AU-ST0327,Business Law,Agent,82.7,None,Intermediate,2026-T1
+AU-ST0328,Marketing,Online Portal,79.8,Partial,Intermediate,2026-T1
+AU-ST0329,Accounting,Online Portal,80.1,Partial,Basic,2026-T1
+AU-ST0330,Programming,Online Portal,85.4,Partial,Basic,2026-T1
+AU-ST0331,Business Law,University Fair,65.6,Partial,Intermediate,2026-T1
+AU-ST0332,Finance,Agent,83.5,None,Intermediate,2026-T1
+AU-ST0333,Finance,University Fair,71.6,None,Basic,2026-T1
+AU-ST0334,Accounting,Agent,79.9,Partial,Intermediate,2026-T1
+AU-ST0335,Economics,University Fair,81.3,None,Intermediate,2026-T1
+AU-ST0336,Economics,Agent,63.5,None,Intermediate,2026-T1
+AU-ST0337,Business Law,Online Portal,79.0,None,Intermediate,2026-T1
+AU-ST0338,Economics,Referral,85.0,Partial,Intermediate,2026-T1
+AU-ST0339,Economics,Online Portal,75.7,Partial,Intermediate,2026-T1
+AU-ST0340,Business Law,University Fair,68.2,None,Intermediate,2026-T1
+AU-ST0341,Economics,Online Portal,72.2,Partial,Advanced,2026-T1
+AU-ST0342,Marketing,University Fair,90.9,Partial,Advanced,2026-T1
+AU-ST0343,Business Law,Referral,94.1,None,Intermediate,2026-T1
+AU-ST0344,Statistics,University Fair,82.5,None,Advanced,2026-T1
+AU-ST0345,Engineering,Online Portal,80.0,None,Basic,2026-T1
+AU-ST0346,Marketing,Online Portal,70.0,Partial,Intermediate,2026-T1
+AU-ST0347,Statistics,University Fair,74.0,None,Intermediate,2026-T1
+AU-ST0348,Business Law,Agent,80.9,None,Intermediate,2026-T1
+AU-ST0349,Engineering,Online Portal,71.2,None,Intermediate,2026-T1
+AU-ST0350,Statistics,Agent,85.3,Partial,Basic,2026-T1
+AU-ST0351,Business Law,Online Portal,91.8,None,Basic,2026-T1
+AU-ST0352,Economics,Online Portal,79.6,Full,Advanced,2026-T1
+AU-ST0353,Engineering,Agent,55,None,Basic,2026-T1
+AU-ST0354,Business Law,University Fair,86.9,Partial,Advanced,2026-T1
+AU-ST0355,Business Law,Online Portal,74.1,Partial,Basic,2026-T1
+AU-ST0356,Programming,Referral,63.9,None,Intermediate,2026-T1
+AU-ST0357,Marketing,Agent,92.1,Partial,Basic,2026-T1
+AU-ST0358,Programming,Referral,70.8,None,Intermediate,2026-T1
+AU-ST0359,Engineering,Online Portal,75.8,Partial,Basic,2026-T1
+AU-ST0360,Business Law,University Fair,88.8,Partial,Intermediate,2026-T1
+AU-ST0361,Statistics,University Fair,77.3,Partial,Intermediate,2026-T1
+AU-ST0362,Marketing,Agent,98,None,Intermediate,2026-T1
+AU-ST0363,Marketing,Referral,87.5,None,Intermediate,2026-T1
+AU-ST0364,Economics,University Fair,91.2,Full,Basic,2026-T1
+AU-ST0365,Business Law,Referral,75.0,Partial,Advanced,2026-T1
+AU-ST0366,Mathematics,Referral,78.3,None,Advanced,2026-T1
+AU-ST0367,Economics,University Fair,90.9,None,Intermediate,2026-T1
+AU-ST0368,Accounting,University Fair,77.5,None,Intermediate,2026-T1
+AU-ST0369,Programming,Referral,76.9,None,Intermediate,2026-T1
+AU-ST0370,Marketing,Agent,71.4,Full,Intermediate,2026-T1
+AU-ST0371,Marketing,Agent,68.1,None,Advanced,2026-T1
+AU-ST0372,Finance,Agent,71.0,None,Intermediate,2026-T1
+AU-ST0373,Marketing,Online Portal,85.9,None,Basic,2026-T1
+AU-ST0374,Accounting,Agent,70.2,None,Intermediate,2026-T1
+AU-ST0375,Accounting,Agent,80.1,Full,Advanced,2026-T1
+AU-ST0376,Engineering,Online Portal,77.0,None,Basic,2026-T1
+AU-ST0377,Economics,Agent,75.1,Partial,Advanced,2026-T1
+AU-ST0378,Statistics,University Fair,92.8,Partial,Basic,2026-T1
+AU-ST0379,Finance,University Fair,70.7,Partial,Intermediate,2026-T1
+AU-ST0380,Mathematics,University Fair,73.7,Full,Intermediate,2026-T1
+AU-ST0381,Economics,Referral,69.9,None,Intermediate,2026-T1
+AU-ST0382,Business Law,University Fair,71.3,Partial,Advanced,2026-T1
+AU-ST0383,Finance,Agent,77.6,None,Advanced,2026-T1
+AU-ST0384,Business Law,Online Portal,65.0,Partial,Intermediate,2026-T1
+AU-ST0385,Accounting,University Fair,78.4,None,Intermediate,2026-T1
+AU-ST0386,Marketing,Referral,84.7,Partial,Basic,2026-T1
+AU-ST0387,Business Law,University Fair,77.7,None,Intermediate,2026-T1
+AU-ST0388,Marketing,Agent,87.5,None,Intermediate,2026-T1
+AU-ST0389,Business Law,Referral,74.1,Partial,Intermediate,2026-T1
+AU-ST0390,Economics,Agent,85.8,None,Advanced,2026-T1
+AU-ST0391,Business Law,Agent,77.2,None,Intermediate,2026-T1
+AU-ST0392,Business Law,University Fair,82.1,Partial,Intermediate,2026-T1
+AU-ST0393,Marketing,Online Portal,71.9,None,Basic,2026-T1
+AU-ST0394,Programming,Online Portal,75.7,Partial,Basic,2026-T1
+AU-ST0395,Marketing,Referral,67.7,Partial,Intermediate,2026-T1
+AU-ST0396,Economics,University Fair,65.7,Partial,Intermediate,2026-T1
+AU-ST0397,Statistics,Online Portal,85.4,None,Intermediate,2026-T1
+AU-ST0398,Business Law,Online Portal,64.6,None,Intermediate,2026-T1
+AU-ST0399,Mathematics,University Fair,66.6,None,Intermediate,2026-T1
+AU-ST0400,Statistics,Online Portal,68.0,None,Advanced,2026-T1
+AU-ST0401,Marketing,Agent,71.7,Partial,Intermediate,2026-T1
+AU-ST0402,Marketing,Online Portal,75.2,None,Intermediate,2026-T1
+AU-ST0403,Programming,Online Portal,73.8,None,Intermediate,2026-T1
+AU-ST0404,Statistics,Online Portal,77.5,Full,Intermediate,2026-T1
+AU-ST0405,Statistics,Online Portal,88.8,None,Advanced,2026-T1
+AU-ST0406,Statistics,University Fair,73.3,None,Basic,2026-T1
+AU-ST0407,Engineering,Referral,89.4,None,Intermediate,2026-T1
+AU-ST0408,Programming,University Fair,73.4,None,Intermediate,2026-T1
+AU-ST0409,Statistics,Referral,89.2,Full,Advanced,2026-T1
+AU-ST0410,Engineering,Online Portal,78.9,None,Basic,2026-T1
+AU-ST0411,Engineering,University Fair,63.2,None,Advanced,2026-T1
+AU-ST0412,Business Law,University Fair,71.1,None,Intermediate,2026-T1
+AU-ST0413,Marketing,University Fair,76.8,None,Intermediate,2026-T1
+AU-ST0414,Finance,University Fair,74.6,None,Advanced,2026-T1
+AU-ST0415,Accounting,Referral,79.6,Partial,Intermediate,2026-T1
+AU-ST0416,Finance,University Fair,63.2,Partial,Advanced,2026-T1
+AU-ST0417,Mathematics,Online Portal,73.3,None,Intermediate,2026-T1
+AU-ST0418,Programming,University Fair,74.0,None,Basic,2026-T1
+AU-ST0419,Accounting,Agent,63.8,None,Advanced,2026-T1
+AU-ST0420,Programming,Referral,73.4,Partial,Intermediate,2026-T1
+AU-ST0421,Business Law,Agent,78.3,None,Intermediate,2026-T1
+AU-ST0422,Economics,Agent,69.6,None,Intermediate,2026-T1
+AU-ST0423,Statistics,Agent,78.7,Partial,Intermediate,2026-T1
+AU-ST0424,Business Law,University Fair,57.7,None,Intermediate,2026-T1
+AU-ST0425,Engineering,Online Portal,72.1,Partial,Intermediate,2026-T1
+AU-ST0426,Statistics,Online Portal,76.7,None,Basic,2026-T1
+AU-ST0427,Programming,University Fair,69.3,None,Intermediate,2026-T1
+AU-ST0428,Economics,University Fair,68.4,Partial,Intermediate,2026-T1
+AU-ST0429,Business Law,Agent,84.2,None,Intermediate,2026-T1
+AU-ST0430,Economics,Referral,77.1,None,Intermediate,2026-T1
+AU-ST0431,Finance,University Fair,98,Partial,Intermediate,2026-T1
+AU-ST0432,Statistics,University Fair,75.4,None,Intermediate,2026-T1
+AU-ST0433,Business Law,University Fair,85.0,None,Basic,2026-T1
+AU-ST0434,Programming,University Fair,86.2,None,Basic,2026-T1
+AU-ST0435,Mathematics,Online Portal,77.3,Partial,Intermediate,2026-T1
+AU-ST0436,Statistics,University Fair,83.3,Partial,Intermediate,2026-T1
+AU-ST0437,Business Law,Referral,75.1,None,Advanced,2026-T1
+AU-ST0438,Economics,Agent,80.6,Partial,Advanced,2026-T1
+AU-ST0439,Mathematics,Referral,77.7,Partial,Basic,2026-T1
+AU-ST0440,Mathematics,Referral,89.3,None,Intermediate,2026-T1
+AU-ST0441,Engineering,Online Portal,70.9,None,Advanced,2026-T1
+AU-ST0442,Marketing,Referral,75.7,None,Basic,2026-T1
+AU-ST0443,Finance,Referral,75.0,None,Intermediate,2026-T1
+AU-ST0444,Business Law,Online Portal,77.8,Partial,Intermediate,2026-T1
+AU-ST0445,Statistics,Referral,79.0,None,Basic,2026-T1
+AU-ST0446,Marketing,Agent,75.5,Partial,Intermediate,2026-T1
+AU-ST0447,Engineering,Online Portal,77.2,Partial,Intermediate,2026-T1
+AU-ST0448,Economics,Referral,92.1,None,Basic,2026-T1
+AU-ST0449,Business Law,Agent,82.0,None,Basic,2026-T1
+AU-ST0450,Finance,Referral,78.2,Partial,Advanced,2026-T1
+AU-ST0451,Statistics,Referral,67.1,Partial,Intermediate,2026-T1
+AU-ST0452,Programming,Online Portal,74.8,None,Intermediate,2026-T1
+AU-ST0453,Finance,University Fair,73.0,Partial,Intermediate,2026-T1
+AU-ST0454,Mathematics,University Fair,79.3,Partial,Advanced,2026-T1
+AU-ST0455,Accounting,Agent,79.6,None,Basic,2026-T1
+AU-ST0456,Marketing,University Fair,94.4,None,Intermediate,2026-T1
+AU-ST0457,Statistics,University Fair,74.4,Full,Intermediate,2026-T1
+AU-ST0458,Mathematics,Referral,62.3,Partial,Intermediate,2026-T1
+AU-ST0459,Mathematics,Online Portal,90.8,Partial,Intermediate,2026-T1
+AU-ST0460,Economics,Referral,90.9,None,Intermediate,2026-T1
+AU-ST0461,Statistics,University Fair,72.6,None,Intermediate,2026-T1
+AU-ST0462,Statistics,Referral,69.6,None,Basic,2026-T1
+AU-ST0463,Accounting,Online Portal,69.6,None,Advanced,2026-T1
+AU-ST0464,Programming,Online Portal,81.5,None,Advanced,2026-T1
+AU-ST0465,Mathematics,Agent,70.8,None,Intermediate,2026-T1
+AU-ST0466,Statistics,Referral,58.5,Partial,Intermediate,2026-T1
+AU-ST0467,Accounting,Agent,72.0,None,Advanced,2026-T1
+AU-ST0468,Programming,Online Portal,90.4,None,Intermediate,2026-T1
+AU-ST0469,Engineering,Agent,84.1,None,Basic,2026-T1
+AU-ST0470,Economics,Referral,81.3,None,Intermediate,2026-T1
+AU-ST0471,Mathematics,University Fair,79.7,None,Intermediate,2026-T1
+AU-ST0472,Marketing,Online Portal,82.6,None,Intermediate,2026-T1
+AU-ST0473,Mathematics,Referral,86.7,None,Intermediate,2026-T1
+AU-ST0474,Business Law,Online Portal,77.9,None,Intermediate,2026-T1
+AU-ST0475,Statistics,Online Portal,83.5,None,Intermediate,2026-T1
+AU-ST0476,Business Law,Referral,72.2,None,Intermediate,2026-T1
+AU-ST0477,Statistics,Agent,75.2,None,Advanced,2026-T1
+AU-ST0478,Mathematics,Agent,70.3,Partial,Intermediate,2026-T1
+AU-ST0479,Marketing,Agent,76.4,None,Advanced,2026-T1
+AU-ST0480,Programming,Online Portal,71.2,Partial,Basic,2026-T1
+AU-ST0481,Business Law,University Fair,84.1,None,Intermediate,2026-T1
+AU-ST0482,Accounting,Online Portal,55,Partial,Basic,2026-T1
+AU-ST0483,Engineering,Online Portal,90.4,None,Intermediate,2026-T1
+AU-ST0484,Business Law,University Fair,58.2,None,Advanced,2026-T1
+AU-ST0485,Economics,Online Portal,71.6,None,Advanced,2026-T1
+AU-ST0486,Marketing,Referral,81.3,None,Intermediate,2026-T1
+AU-ST0487,Marketing,Referral,79.2,Partial,Intermediate,2026-T1
+AU-ST0488,Accounting,Referral,59.0,None,Intermediate,2026-T1
+AU-ST0489,Accounting,Online Portal,83.3,Partial,Intermediate,2026-T1
+AU-ST0490,Programming,University Fair,72.1,None,Intermediate,2026-T1
+AU-ST0491,Engineering,Agent,74.3,None,Advanced,2026-T1
+AU-ST0492,Marketing,Referral,75.7,None,Intermediate,2026-T1
+AU-ST0493,Accounting,Agent,68.9,Partial,Intermediate,2026-T1
+AU-ST0494,Programming,Agent,70.2,None,Intermediate,2026-T1
+AU-ST0495,Programming,Agent,78.2,None,Intermediate,2026-T1
+AU-ST0496,Accounting,Online Portal,77.9,Partial,Intermediate,2026-T1
+AU-ST0497,Programming,Referral,87.5,Partial,Intermediate,2026-T1
+AU-ST0498,Finance,University Fair,75.3,Partial,Basic,2026-T1
+AU-ST0499,Accounting,Online Portal,66.2,Partial,Advanced,2026-T1
+AU-ST0500,Programming,Agent,93.4,None,Advanced,2026-T1
+AU-ST0501,Business Law,Online Portal,69.8,None,Intermediate,2026-T1
+AU-ST0502,Economics,Online Portal,69.4,Partial,Intermediate,2026-T1
+AU-ST0503,Economics,Agent,82.2,None,Intermediate,2026-T1
+AU-ST0504,Economics,Referral,69.9,None,Intermediate,2026-T1
+AU-ST0505,Programming,University Fair,59.0,None,Advanced,2026-T1
+AU-ST0506,Accounting,Agent,72.0,None,Advanced,2026-T1
+AU-ST0507,Marketing,Referral,55,None,Intermediate,2026-T1
+AU-ST0508,Engineering,University Fair,82.6,None,Intermediate,2026-T1
+AU-ST0509,Economics,Online Portal,77.9,None,Intermediate,2026-T1
+AU-ST0510,Marketing,University Fair,83.7,None,Intermediate,2026-T1
+AU-ST0511,Economics,University Fair,69.9,None,Intermediate,2026-T1
+AU-ST0512,Programming,Agent,80.9,None,Advanced,2026-T1
+AU-ST0513,Programming,Referral,83.2,None,Intermediate,2026-T1
+AU-ST0514,Engineering,Referral,84.3,None,Intermediate,2026-T1
+AU-ST0515,Marketing,Online Portal,88.2,None,Intermediate,2026-T1
+AU-ST0516,Accounting,Referral,68.3,None,Intermediate,2026-T1
+AU-ST0517,Statistics,University Fair,82.7,Full,Intermediate,2026-T1
+AU-ST0518,Accounting,Agent,72.1,None,Advanced,2026-T1
+AU-ST0519,Marketing,Online Portal,78.0,None,Basic,2026-T1
+AU-ST0520,Economics,Online Portal,66.2,Partial,Basic,2026-T1
+AU-ST0521,Finance,Online Portal,81.6,Full,Basic,2026-T1
+AU-ST0522,Marketing,Referral,88.4,None,Intermediate,2026-T1
+AU-ST0523,Accounting,University Fair,62.0,Full,Advanced,2026-T1
+AU-ST0524,Engineering,Online Portal,77.4,None,Intermediate,2026-T1
+AU-ST0525,Accounting,University Fair,80.9,None,Intermediate,2026-T1
+AU-ST0526,Economics,Online Portal,68.3,None,Intermediate,2026-T1
+AU-ST0527,Programming,Online Portal,85.9,None,Basic,2026-T1
+AU-ST0528,Programming,Referral,82.5,Partial,Intermediate,2026-T1
+AU-ST0529,Accounting,Agent,61.7,Full,Advanced,2026-T1
+AU-ST0530,Accounting,University Fair,86.2,Partial,Advanced,2026-T1
+AU-ST0531,Economics,Online Portal,73.5,Partial,Intermediate,2026-T1
+AU-ST0532,Programming,Agent,76.3,None,Intermediate,2026-T1
+AU-ST0533,Statistics,Agent,78.0,None,Advanced,2026-T1
+AU-ST0534,Marketing,Referral,78.4,None,Intermediate,2026-T1
+AU-ST0535,Business Law,Referral,80.9,None,Advanced,2026-T1
+AU-ST0536,Accounting,University Fair,64.2,None,Intermediate,2026-T1
+AU-ST0537,Engineering,Referral,55,None,Intermediate,2026-T1
+AU-ST0538,Accounting,Referral,55,None,Intermediate,2026-T1
+AU-ST0539,Engineering,University Fair,85.4,None,Intermediate,2026-T1
+AU-ST0540,Statistics,University Fair,63.0,None,Intermediate,2026-T1
+AU-ST0541,Business Law,Online Portal,87.4,None,Intermediate,2026-T1
+AU-ST0542,Finance,Referral,77.2,None,Advanced,2026-T1
+AU-ST0543,Finance,Online Portal,81.3,Full,Intermediate,2026-T1
+AU-ST0544,Accounting,Agent,76.9,Partial,Intermediate,2026-T1
+AU-ST0545,Engineering,University Fair,89.0,Partial,Basic,2026-T1
+AU-ST0546,Finance,University Fair,91.3,None,Basic,2026-T1
+AU-ST0547,Business Law,University Fair,65.9,Partial,Intermediate,2026-T1
+AU-ST0548,Business Law,Online Portal,72.3,None,Intermediate,2026-T1
+AU-ST0549,Economics,Online Portal,57.3,None,Intermediate,2026-T1
+AU-ST0550,Business Law,Referral,69.9,Partial,Intermediate,2026-T1
+AU-ST0551,Marketing,University Fair,86.0,Partial,Intermediate,2026-T1
+AU-ST0552,Marketing,University Fair,79.7,Partial,Intermediate,2026-T1
+AU-ST0553,Mathematics,Agent,82.5,Partial,Intermediate,2026-T1
+AU-ST0554,Engineering,Referral,75.4,None,Advanced,2026-T1
+AU-ST0555,Engineering,Online Portal,75.6,None,Intermediate,2026-T1
+AU-ST0556,Economics,University Fair,80.7,None,Intermediate,2026-T1
+AU-ST0557,Engineering,Agent,83.9,None,Advanced,2026-T1
+AU-ST0558,Marketing,Referral,63.4,None,Intermediate,2026-T1
+AU-ST0559,Economics,Agent,80.7,None,Intermediate,2026-T1
+AU-ST0560,Economics,Referral,90.0,None,Intermediate,2026-T1
+AU-ST0561,Programming,Online Portal,74.6,Partial,Advanced,2026-T1
+AU-ST0562,Mathematics,Referral,83.8,None,Intermediate,2026-T1
+AU-ST0563,Accounting,Referral,72.8,Partial,Basic,2026-T1
+AU-ST0564,Programming,Online Portal,70.0,Partial,Advanced,2026-T1
+AU-ST0565,Marketing,University Fair,80.8,None,Intermediate,2026-T1
+AU-ST0566,Accounting,Online Portal,69.8,None,Advanced,2026-T1
+AU-ST0567,Economics,Online Portal,67.4,None,Advanced,2026-T1
+AU-ST0568,Mathematics,Online Portal,81.6,None,Intermediate,2026-T1
+AU-ST0569,Accounting,Online Portal,83.7,None,Advanced,2026-T1
+AU-ST0570,Programming,Agent,64.0,None,Intermediate,2026-T1
+AU-ST0571,Programming,Agent,61.7,None,Basic,2026-T1
+AU-ST0572,Engineering,University Fair,65.3,Partial,Basic,2026-T1
+AU-ST0573,Statistics,Online Portal,89.0,Partial,Intermediate,2026-T1
+AU-ST0574,Economics,Online Portal,79.7,None,Basic,2026-T1
+AU-ST0575,Statistics,Online Portal,91.9,None,Intermediate,2026-T1
+AU-ST0576,Finance,Online Portal,91.7,None,Intermediate,2026-T1
+AU-ST0577,Mathematics,University Fair,74.5,Full,Intermediate,2026-T1
+AU-ST0578,Programming,Agent,82.7,None,Intermediate,2026-T1
+AU-ST0579,Engineering,University Fair,83.6,None,Intermediate,2026-T1
+AU-ST0580,Programming,Agent,77.9,None,Intermediate,2026-T1
+AU-ST0581,Statistics,Agent,98,None,Intermediate,2026-T1
+AU-ST0582,Programming,Online Portal,79.5,None,Basic,2026-T1
+AU-ST0583,Economics,Referral,57.0,Full,Intermediate,2026-T1
+AU-ST0584,Statistics,Referral,71.3,None,Advanced,2026-T1
+AU-ST0585,Mathematics,Referral,73.4,None,Intermediate,2026-T1
+AU-ST0586,Marketing,Online Portal,74.0,None,Intermediate,2026-T1
+AU-ST0587,Statistics,University Fair,72.3,None,Basic,2026-T1
+AU-ST0588,Engineering,Agent,78.7,None,Intermediate,2026-T1
+AU-ST0589,Business Law,Online Portal,69.8,None,Basic,2026-T1
+AU-ST0590,Programming,Online Portal,58.2,Full,Intermediate,2026-T1
+AU-ST0591,Engineering,University Fair,85.5,Full,Intermediate,2026-T1
+AU-ST0592,Economics,Online Portal,70.7,None,Basic,2026-T1
+AU-ST0593,Marketing,University Fair,78.0,None,Basic,2026-T1
+AU-ST0594,Engineering,Online Portal,80.1,None,Basic,2026-T1
+AU-ST0595,Marketing,Online Portal,87.8,Partial,Basic,2026-T1
+AU-ST0596,Finance,Online Portal,55.8,None,Advanced,2026-T1
+AU-ST0597,Accounting,Referral,91.2,Partial,Intermediate,2026-T1
+AU-ST0598,Statistics,Agent,73.4,None,Advanced,2026-T1
+AU-ST0599,Marketing,Online Portal,63.6,Partial,Intermediate,2026-T1
+AU-ST0600,Statistics,Referral,81.7,None,Advanced,2026-T1
+AU-ST0601,Finance,Agent,78.5,Partial,Basic,2026-T1
+AU-ST0602,Mathematics,University Fair,67.8,Partial,Intermediate,2026-T1
+AU-ST0603,Mathematics,University Fair,70.3,None,Advanced,2026-T1
+AU-ST0604,Programming,Referral,77.1,Partial,Intermediate,2026-T1
+AU-ST0605,Programming,Online Portal,76.0,Partial,Intermediate,2026-T1
+AU-ST0606,Programming,Agent,73.6,Partial,Intermediate,2026-T1
+AU-ST0607,Marketing,Online Portal,98,Full,Intermediate,2026-T1
+AU-ST0608,Marketing,Agent,63.7,None,Intermediate,2026-T1
+AU-ST0609,Marketing,Referral,77.3,None,Basic,2026-T1
+AU-ST0610,Finance,Referral,79.0,None,Intermediate,2026-T1
+AU-ST0611,Engineering,Referral,76.5,None,Intermediate,2026-T1
+AU-ST0612,Economics,Agent,81.3,None,Intermediate,2026-T1
+AU-ST0613,Programming,Referral,77.2,None,Intermediate,2026-T1
+AU-ST0614,Marketing,University Fair,79.4,Partial,Intermediate,2026-T1
+AU-ST0615,Marketing,University Fair,76.6,None,Intermediate,2026-T1
+AU-ST0616,Accounting,Online Portal,78.9,None,Basic,2026-T1
+AU-ST0617,Business Law,Agent,78.9,None,Intermediate,2026-T1
+AU-ST0618,Accounting,University Fair,80.2,None,Intermediate,2026-T1
+AU-ST0619,Economics,Online Portal,80.8,Full,Advanced,2026-T1
+AU-ST0620,Economics,Online Portal,77.1,Full,Intermediate,2026-T1
+AU-ST0621,Finance,Agent,78.0,None,Intermediate,2026-T1
+AU-ST0622,Statistics,University Fair,89.0,None,Intermediate,2026-T1
+AU-ST0623,Mathematics,Agent,61.9,Partial,Intermediate,2026-T1
+AU-ST0624,Marketing,Online Portal,66.9,None,Intermediate,2026-T1
+AU-ST0625,Finance,Online Portal,92.1,None,Advanced,2026-T1
+AU-ST0626,Marketing,Online Portal,82.6,None,Intermediate,2026-T1
+AU-ST0627,Mathematics,Agent,77.4,None,Intermediate,2026-T1
+AU-ST0628,Accounting,Online Portal,72.9,None,Intermediate,2026-T1
+AU-ST0629,Business Law,University Fair,80.2,Partial,Basic,2026-T1
+AU-ST0630,Statistics,Online Portal,92.8,None,Advanced,2026-T1
+AU-ST0631,Statistics,Referral,84.9,None,Advanced,2026-T1
+AU-ST0632,Engineering,Agent,75.3,None,Basic,2026-T1
+AU-ST0633,Accounting,Agent,55.5,Partial,Advanced,2026-T1
+AU-ST0634,Marketing,Referral,73.5,None,Advanced,2026-T1
+AU-ST0635,Statistics,Agent,98,Partial,Intermediate,2026-T1
+AU-ST0636,Marketing,Referral,87.9,Partial,Intermediate,2026-T1
+AU-ST0637,Mathematics,Agent,91.7,None,Intermediate,2026-T1
+AU-ST0638,Mathematics,Agent,72.6,None,Advanced,2026-T1
+AU-ST0639,Engineering,Online Portal,84.4,None,Basic,2026-T1
+AU-ST0640,Mathematics,Agent,62.4,None,Intermediate,2026-T1
+AU-ST0641,Statistics,University Fair,86.4,Partial,Advanced,2026-T1
+AU-ST0642,Statistics,Referral,70.2,None,Intermediate,2026-T1
+AU-ST0643,Finance,Online Portal,76.2,None,Intermediate,2026-T1
+AU-ST0644,Accounting,Agent,85.5,None,Intermediate,2026-T1
+AU-ST0645,Programming,University Fair,65.1,None,Intermediate,2026-T1
+AU-ST0646,Accounting,Online Portal,77.9,None,Basic,2026-T1
+AU-ST0647,Finance,Online Portal,72.0,Full,Advanced,2026-T1
+AU-ST0648,Accounting,Online Portal,67.3,Partial,Intermediate,2026-T1
+AU-ST0649,Finance,Online Portal,63.5,Partial,Intermediate,2026-T1
+AU-ST0650,Programming,Referral,57.1,Partial,Intermediate,2026-T1
