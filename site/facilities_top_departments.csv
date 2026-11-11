@@ -1,0 +1,11 @@
+department_name,orders,avg_cost,total_cost,overdue_pct
+Anthropology,12,904.64,10855.74,58.3
+Languages & Linguistics,13,761.83,9903.75,53.8
+Education & Teaching Innovation,10,663.3,6632.99,50.0
+Geography & Earth Sciences,14,727.1,10179.47,50.0
+Music Studies,10,789.85,7898.51,50.0
+Residential & Housing,23,869.82,20005.8,47.8
+Alumni & Community Engagement,13,689.08,8958.1,46.2
+History,13,985.72,12814.4,46.2
+Financial Services,27,742.8,20055.57,44.4
+Social Sciences,18,839.51,15111.23,44.4

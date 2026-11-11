@@ -1,0 +1,4 @@
+work_type,orders,avg_priority,total_cost,completion_pct,overdue_pct
+Reactive,329,3.31,234750.15,76.6,42.2
+Preventive,355,2.94,258069.28,89.6,29.0
+Emergency,96,4.6,100811.59,90.6,27.1

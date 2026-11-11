@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 398" role="img" aria-label="Observed current-risk rate by entry channel">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="30" y="39" font-size="24" font-family="Arial" font-weight="bold" fill="#163a56">Observed current-risk rate by entry channel</text>
+<text x="30" y="66" font-size="14" font-family="Arial" fill="#657789">Descriptive, post-term flag; NOT admissions prediction</text>
+<text x="30" y="129" font-size="16" font-family="Arial" fill="#163a56">Referral</text>
+<rect x="230" y="108" width="630" height="27" rx="6" fill="#e9f1f4"/>
+<rect x="230" y="108" width="630" height="27" rx="6" fill="#18a999"/>
+<text x="956" y="129" text-anchor="end" font-family="Arial" font-weight="bold" font-size="16" fill="#163a56">16.2%</text>
+<text x="30" y="182" font-size="16" font-family="Arial" fill="#163a56">University Fair</text>
+<rect x="230" y="161" width="630" height="27" rx="6" fill="#e9f1f4"/>
+<rect x="230" y="161" width="614" height="27" rx="6" fill="#18a999"/>
+<text x="956" y="182" text-anchor="end" font-family="Arial" font-weight="bold" font-size="16" fill="#163a56">15.8%</text>
+<text x="30" y="235" font-size="16" font-family="Arial" fill="#163a56">Agent</text>
+<rect x="230" y="214" width="630" height="27" rx="6" fill="#e9f1f4"/>
+<rect x="230" y="214" width="544" height="27" rx="6" fill="#18a999"/>
+<text x="956" y="235" text-anchor="end" font-family="Arial" font-weight="bold" font-size="16" fill="#163a56">14.0%</text>
+<text x="30" y="288" font-size="16" font-family="Arial" fill="#163a56">Online Portal</text>
+<rect x="230" y="267" width="630" height="27" rx="6" fill="#e9f1f4"/>
+<rect x="230" y="267" width="498" height="27" rx="6" fill="#18a999"/>
+<text x="956" y="288" text-anchor="end" font-family="Arial" font-weight="bold" font-size="16" fill="#163a56">12.8%</text>
+<text x="30" y="377" font-size="13" font-family="Arial" fill="#657789">ILLUSTRATIVE SYNTHETIC DATA — generated for portfolio reproducibility, not the original Power BI results</text>
+</svg>
