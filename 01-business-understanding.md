@@ -2,7 +2,7 @@
 
 ## Decision context
 
-The MIS781 scenario asks an analyst to design Power BI reports for three audiences at fictional **Aurora University**. The assignment presents a need for stronger, audience-specific decision-making across academic affairs, facilities and administration. It does not document a measured failure of an existing production system, so statements about current system fragmentation or historical losses would be unsupported.
+The scenario asks an analyst to design Power BI reports for three audiences at fictional **Aurora University**. The assignment presents a need for stronger, audience-specific decision-making across academic affairs, facilities and administration. It does not document a measured failure of an existing production system, so statements about current system fragmentation or historical losses would be unsupported.
 
 **Portfolio reframing:** rather than treating dashboards as the end product, treat them as a proposed **decision-support capability** with three related workstreams.
 
